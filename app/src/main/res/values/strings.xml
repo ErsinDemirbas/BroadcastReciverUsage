@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReciverUsage</string>
+    
+    <string name="btn_name">Broadcast Now</string>
+</resources>
